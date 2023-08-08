@@ -1,0 +1,65 @@
+body{
+    background-color: #d8def3;
+    
+        cursor: url("icons8-cursor-100.png"),auto;
+
+    
+}
+.anu{
+    border: 7px solid 
+    #FF5C4D;
+    background-color: #FFB067;
+    color: #044616;
+    position:fixed;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-left: 220px;
+    padding-right: 220px;
+    top: 20%;
+    left:50%;
+    width:400px;
+    text-align: center;
+}
+#tt{
+    font-size: 2em;
+}
+.btns{
+    border: 7px solid
+    #FF5C4D ;
+    background-color:  #FFED86;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    padding-left: 220px;
+    padding-right: 220px;
+
+    top: 62%;
+    left:50%;
+    width:400px;
+    height: 200px;
+    text-align: center;
+}
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #de8383;
+    border-radius: 50%;
+    display: inline-block;
+    
+    margin:15px;
+    
+}
+.knobs{
+    width: 800px;
+    display: flex;
+    justify-content:left;
+}
+.butt{
+    
+    margin:6px;
+    color:blueviolet;
+    background-color: bisque;
+    padding:10px;
+    cursor: pointer;
+    
+}

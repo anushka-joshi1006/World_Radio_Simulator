@@ -1,0 +1,40 @@
+#container{
+    float:left;
+    position: relative; 
+}
+.mark{
+    width:45px;
+    position:absolute
+}
+img{
+    vertical-align: bottom;
+}
+#francemark{
+    top:167px;
+    left:865px;
+}
+#indiamark{
+    top:330px;
+    left:1290px;
+}
+#canadamark{
+    top: 100px;
+    left: 325px; 
+}
+#russiamark{ 
+    top: 70px;
+    left: 1200px;   
+}
+#ausmark{
+    top:620px;
+    left:1550px;
+}
+#spainmark{
+    top:300px;
+    left:280px;
+}
+#chinamark{
+    top:240px;
+    left:1400px;
+}
+
